@@ -2,4 +2,4 @@
 .Trash-0
 docker_files
 .ipynb_checkpoints
-
+__pycache__
